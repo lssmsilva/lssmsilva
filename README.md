@@ -1,16 +1,14 @@
-## Hi there 👋
+ ## Oi, eu sou a Laura Soares 👋
 
-<!--
-**lssmsilva/lssmsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduada em Engenharia Elétrica de Telecomunicações  
+📊 Pós-graduanda em Engenharia e Análise de Dados  
+📍 Recife - PE
 
-Here are some ideas to get you started:
+### 💻 Áreas de interesse
+- Análise de Dados
+- Estatística
+- Python
+- Visualização de dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projetos
+Aqui você encontra projetos acadêmicos e práticos focados em análise de dados e aprendizado contínuo.
