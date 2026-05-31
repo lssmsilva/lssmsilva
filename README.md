@@ -18,11 +18,9 @@ Atuo com projetos técnicos e estou em transição/expansão para a área de dad
 
 🔹 Análise de Conectividade no Brasil  
 → Estudo com dados da Anatel para identificar padrões regionais  
-→ link
 
 🔹 Desempenho de Estudantes  
 → Análise estatística e preditiva  
-→ link
 
 ## 📫 Contato
 - LinkedIn: https://www.linkedin.com/in/laura-soares-313067195/
